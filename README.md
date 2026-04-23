@@ -91,6 +91,8 @@ docs/screenshots/analytics-overview.png
 docs/screenshots/analytics-activities.png
 docs/screenshots/analytics-mistakes.png
 docs/screenshots/find-result-choice.png
+docs/screenshots/complete-operations.png
+docs/screenshots/memory-game.png
 docs/screenshots/snake-game.png
 docs/screenshots/number-invasion.png
 docs/screenshots/tic-tac-toe-settings.png
@@ -119,9 +121,13 @@ docs/screenshots/settings.png
 
 ### Practice and Games
 
-| Find the Result - Choice | Snake Game | Number Invasion |
+| Find the Result - Choice | Complete Operations | Memory Game |
 |---|---|---|
-| ![Find result choice](docs/screenshots/find-result-choice.png) | ![Snake game](docs/screenshots/snake-game.png) | ![Number invasion](docs/screenshots/number-invasion.png) |
+| ![Find result choice](docs/screenshots/find-result-choice.png) | ![Complete operations](docs/screenshots/complete-operations.png) | ![Memory game](docs/screenshots/memory-game.png) |
+
+| Snake Game | Number Invasion |
+|---|---|
+| ![Snake game](docs/screenshots/snake-game.png) | ![Number invasion](docs/screenshots/number-invasion.png) |
 
 ### Configuration
 
